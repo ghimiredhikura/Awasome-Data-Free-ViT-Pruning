@@ -1,4 +1,4 @@
-# Awasome-Data-Free-ViT-Pruning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awasome-Data-Free-Transformer-Pruning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Conference Publications
 
